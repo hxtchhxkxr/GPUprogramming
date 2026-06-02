@@ -14,7 +14,9 @@ GLFW를 사용하여 윈도우 생성 및 입력 처리를 수행하고, GLAD를
 
 ## 발표자료
 
-발표자료 삽입
+<a href="./docs/gpu%20발표.pdf">
+  <img src="https://img.shields.io/badge/PDF-GPU%20Presentation-red?style=flat-square&logo=adobeacrobatreader&logoColor=white">
+</a>
 
 ## 개발 환경
 
