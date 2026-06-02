@@ -12,6 +12,10 @@ GLFW를 사용하여 윈도우 생성 및 입력 처리를 수행하고, GLAD를
 
 또한 Vertex Shader와 Fragment Shader를 활용하여 텍스처가 적용된 벽, 바닥, 천장을 렌더링하였습니다.
 
+## 발표자료
+
+발표자료 삽입
+
 ## 개발 환경
 
 ### Language
